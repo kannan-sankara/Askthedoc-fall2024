@@ -3,3 +3,4 @@ langchain==0.1.9
 openai
 chromadb==0.4.4
 tiktoken
+pysqlite3-binary
